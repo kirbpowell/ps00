@@ -1,0 +1,18 @@
+Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
+9/2   KP        21:50 22:11 none          A1       21            Installed Racket & Github for
+																 Windows on my home machine. 
+																 Signed up for Piazza.
+9/2   KP        22:12 22:27 10            A1       5             Installed Racket on laptop
+
+    
+9/3	  KP      	21:47 22:05 2             A1       26            Signed up for a neu ccis email
+																 and a github student account
+9/3	  KP		22:06 23:32	10			 prologue  76			 Read through most of the Prologue
+																 doing the examples along the way
+9/4   KP		00:25 01:42 50			 prologue  37			 Finished the prologue
+9/4
+    
+Total Time On Task A1 (minutes)                   26
+Total Time On Task  (minutes)                   
+TOTA! (hours and tenths)                          0.4
+TOT (hours and tenths)                         
