@@ -8,7 +8,9 @@ Date  Who		Start Stop  Interruptions Question 	TimeOnTask	Comments
 ============committing to git: 9/5 14:23 ===================
 9/5   KP		14:45 14:47 			  A1		2 			Fixed spacing and filename for
 																the lab notebook.
-============committing to git: 9/5 14:49 ===================														
+============committing to git: 9/5 14:49 ===================
+9/5   KP		14:57 15:08				  A2		9			Completed exercises 1 & 2
+
 
 Total Time On Task A1 (minutes)						53
 Total Time On Task A2 (minutes)						
