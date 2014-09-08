@@ -1,0 +1,35 @@
+Date  Who		Start Stop  Interruptions Question 	TimeOnTask	Comments
+9/2   KP		21:50 22:11 		  A1		21          	Installed Racket & Github for
+									        Windows on my home machine. 
+										Signed up for Piazza.
+9/2   KP		22:12 22:27 10		  A1      	5           	Installed Racket on laptop
+9/3   KP		21:47 22:05 2 		  A1       	26          	Signed up for a neu ccis email
+										and a github student account
+============committing to git: 9/5 14:23 ===================
+9/5   KP		14:45 14:47 		  A1		2 		Fixed spacing and filename for
+										the lab notebook.
+============committing to git: 9/5 14:49 ===================
+9/5   KP		14:57 15:08		  A2		9		Completed exercises 1 & 2
+9/5   KP		15:26 16:15	5	  A2		39		Completed exercises 3, 4, 5, 6
+9/6   KP		16:44 16:50		  A2		6		Switched all files over to the 
+										proper github repo and put everything
+										in the proper file format/naming convention
+============committing to git: 9/6 16:53 ===================
+9/7   KP		16:42 17:00		  A2		18		Added some tests to the exercises
+============committing to git: 9/7 17:14 ===================
+9/7   KP		17:19 17:22		  A2		3		Added tests to exercises 4 - 6
+============committing to git: 9/7 17:51 ===================
+9/7   KP		17:40 17:53		  A3		13		Read through and completed the "Git Laboratory"
+============committing to git: 9/7 17:53 ===================
+9/8   KP		01:00 01:46		  A2		46		Started and completed exerciese 7 - 9, started 
+										but did not finish exercise 10
+============committing to git: 9/8 01:47 ===================
+9/8   KP		13:09 13:17		  A2		8		Finished exercise 10
+============committing to git: 9/8 13:19 ===================
+
+Total Time On Task A1 (minutes)						53
+Total Time On Task A2 (minutes)						
+Total Time On Task A3 (minutes)						13
+TOTA1 (hours and tenths)						0.9
+TOTA2 (hours and tenths)							
+TOTA3 (hours and tenths)							
